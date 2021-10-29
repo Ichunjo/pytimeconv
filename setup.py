@@ -4,7 +4,7 @@ with open('README.md', encoding='utf-8') as fh:
     long_description = fh.read()
 
 NAME = 'pytimeconv'
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 setup(
     name=NAME,
